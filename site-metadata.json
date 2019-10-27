@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Vince Ramces Vicente Oliveros",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "teal",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "Vince Ramces V. Oliveros",
+        "tagline": "Clueless Developer",
         "profile_img": "images/avatar.png",
         "bg": "dark",
         "has_nav": true,
@@ -14,8 +14,8 @@
         "content": "&copy; All rights reserved.",
         "links": [
             {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
+                "text": "Made with ❤ from 👨‍💻",
+                "url": "https://clueless.ml",
                 "new_window": true
             }
         ]
